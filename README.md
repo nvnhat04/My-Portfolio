@@ -5,7 +5,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-06B6D4?logo=tailwind-css)
 
-A modern, performant portfolio website built with Next.js App Router featuring dark mode, animations, and responsive design.
+A modern, performant portfolio website built with Next.js App Router featuring animations, and responsive design.
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-2ea44f?style=for-the-badge)](https://my-portfolio-rouge-one-16.vercel.app/)
 
 ## ✨ Features
 - **Engaging Animations**
@@ -43,4 +45,4 @@ A modern, performant portfolio website built with Next.js App Router featuring d
   npm run dev
   ```
 4. Open http://localhost:3000 in your browser.
-## Deploy
+
